@@ -33,10 +33,6 @@ Environment variables here are following closely what Strapi makes available, fo
 ## Running the project
 
 You are now set! You can run the following commands on your terminal to run the project:
-"develop": "strapi develop",
-"start": "strapi start",
-"build": "strapi build",
-"strapi": "strapi"
 
 ### Run the project in development mode
 
